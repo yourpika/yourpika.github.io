@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'A breakfast-room adjoined the drawing-room, I slipped in there.'  
+      'A breakfast-room adjoined the drawing-room, I slipped in there.',
 };
 
 function status(statusText) {
