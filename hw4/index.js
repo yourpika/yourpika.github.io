@@ -8,13 +8,16 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'It proves nothing of the sort! Why, you don't even know what they're about.',
+  
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'And so it is that we are travelling towards Galatz in an agony of expectation.',
+  
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'He ceased; they still more violent assail'd The Grecians.',
+  
   'example4':
-      'A breakfast-room adjoined the drawing-room, I slipped in there.',
+      'I know what it is to live entirely for and with what I love best on earth.',
 };
 
 function status(statusText) {
