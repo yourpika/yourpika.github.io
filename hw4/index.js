@@ -9,7 +9,7 @@ const HOSTED_URLS = {
 const examples = {
 
   'example1':
-      'So you did, you know; always speak the truth--think before you speak--and write it down afterwards.',
+      'Well, it must be removed. My dear! I wish you would have this cat removed.',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
@@ -18,7 +18,7 @@ const examples = {
       'These prizes, in the circus placed, attend The charioteers.',
   
   'example4':
-      'I know what it is to live entirely for and with what I love best on earth.',
+      'Twenty years ago, a poor curate--never mind his name at this moment--fell in love with a rich man's daughter;',
 
 };
 
