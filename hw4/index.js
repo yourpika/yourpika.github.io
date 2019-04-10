@@ -18,7 +18,7 @@ const examples = {
       'These prizes, in the circus placed, attend The charioteers.',
   
   'example4':
-      'Twenty years ago, a poor curate--never mind his name at this moment--fell in love with a rich man's daughter;',
+      'Mr. St. John spoke almost like an automaton: himself only knew the effort it cost him thus to refuse.',
 
 };
 
