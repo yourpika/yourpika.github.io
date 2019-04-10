@@ -9,13 +9,13 @@ const HOSTED_URLS = {
 const examples = {
 
   'example1':
-      'The cause of lightning is the thunder--no, no! I meant the other way.',
+      'So you did, you know; always speak the truth--think before you speak--and write it down afterwards.',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
   
   'example3':
-      'He ceased; they still more violent assail'd The Grecians.',
+      'These prizes, in the circus placed, attend The charioteers.',
   
   'example4':
       'I know what it is to live entirely for and with what I love best on earth.',
