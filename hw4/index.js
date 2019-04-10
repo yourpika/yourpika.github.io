@@ -9,7 +9,7 @@ const HOSTED_URLS = {
 const examples = {
 
   'example1':
-      'It proves nothing of the sort! Why, you don't even know what they're about.',
+      'The cause of lightning is the thunder--no, no! I meant the other way.',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
