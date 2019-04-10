@@ -7,6 +7,7 @@ const HOSTED_URLS = {
 };
 
 const examples = {
+
   'example1':
       'It proves nothing of the sort! Why, you don't even know what they're about.',
   
@@ -18,7 +19,9 @@ const examples = {
   
   'example4':
       'I know what it is to live entirely for and with what I love best on earth.',
+
 };
+
 
 function status(statusText) {
   console.log(statusText);
