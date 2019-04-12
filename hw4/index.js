@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'I beg your pardon, your Majesty, for bringing these in, but I hadn't quite finished my tea when I was sent for.',
+      'Collar the Dormouse! Behead the Dormouse! Turn that Dormouse out of court!Suppress him! Pinch him! Off with his whiskers!',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
