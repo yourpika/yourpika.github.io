@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'A little kindness and putting her hair in papers would do wonders with her.',
+      'I beg your pardon, your Majesty, for bringing these in, but I hadn't quite finished my tea when I was sent for.',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
