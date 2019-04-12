@@ -7,21 +7,18 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-
   'example1':
-      'Well, it must be removed. My dear! I wish you would have this cat removed.',
+      'A little kindness and putting her hair in papers would do wonders with her.',
   
   'example2':
       'And so it is that we are travelling towards Galatz in an agony of expectation.',
   
   'example3':
-      'These prizes, in the circus placed, attend The charioteers.',
+      'My aged guest beloved; sleep thou without; Lest some Achaian chief (for such are wont Ofttimes, here sitting, to consult with me) Hither repair;',
   
   'example4':
-      'Mr. St. John spoke almost like an automaton: himself only knew the effort it cost him thus to refuse.',
-
+      'I know what it is to live entirely for and with what I love best on earth.',
 };
-
 
 function status(statusText) {
   console.log(statusText);
