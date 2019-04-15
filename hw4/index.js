@@ -17,7 +17,7 @@ const examples = {
       'My aged guest beloved; sleep thou without; Lest some Achaian chief (for such are wont Ofttimes, here sitting, to consult with me) Hither repair;',
   
   'example4':
-      'I know what it is to live entirely for and with what I love best on earth.',
+      'Most bitterly he smiled--most decidedly he withdrew his hand from mine."And now you recall your promise, and will not go to India at all, I presume?" said he, after a considerable pause.',
 };
 
 function status(statusText) {
