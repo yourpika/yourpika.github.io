@@ -17,7 +17,7 @@ const examples = {
       'My aged guest beloved; sleep thou without; Lest some Achaian chief (for such are wont Ofttimes, here sitting, to consult with me) Hither repair;',
   
   'example4':
-      ' While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression, I had burnt it in.',
+      'I liked to read what they liked to read: what they enjoyed, delighted me; what they approved, I reverenced. ',
 };
 
 function status(statusText) {
